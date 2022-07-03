@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pinku-28
 - 👀 I’m interested in music and programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python, javascript, html and css
 - 📫 Discord: jepoy#7951
 
 <!---
